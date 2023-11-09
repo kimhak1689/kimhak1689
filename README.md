@@ -6,5 +6,5 @@
 - 🏢 Ministry of Public Works and Transport | Prince Bank Plc.
 - 🛠️ Tech Stack: Laravel, Angular, Python, Kubernetes, Docker, Jenkins
 - 🔧 CI/CD, Dockerization, DevOps, System Architecture, API Development
-- 🌐 Portfolio: [http://info.kimhak-han.online/]
+- 🌐 Portfolio: http://info.kimhak-han.online
 - 📞 Contact: +85581707981
