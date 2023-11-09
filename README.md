@@ -2,9 +2,9 @@
 <img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Bonjour !
-- :school: Studies Bachelor Of Information of Technology and Communication Engineering at **Institute of Technology of Cambodia - សាលាតិចណូ**  </a>
-- 🏬 Works as a Web Developer at  **Ministry of Public Works and Transport**
-- 🏬 Works as a Web Developer at  **CamCyber ICT Solution**
-- 🧑‍💻 Social Media [Instagram](https://www.instagram.com/definitelynothak/) 
-- https://info.kimhak-han.online/
-
+- 👨‍💻 Full Stack DevOps Engineer | Senior Web Developer | Project Lead
+- 🏢 Ministry of Public Works and Transport | Prince Bank Plc.
+- 🛠️ Tech Stack: Laravel, Angular, Python, Kubernetes, Docker, Jenkins
+- 🔧 CI/CD, Dockerization, DevOps, System Architecture, API Development
+- 🌐 Portfolio: [http://info.kimhak-han.online/]
+- 📞 Contact: +85581707981
